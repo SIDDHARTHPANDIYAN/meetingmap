@@ -1,0 +1,85 @@
+#login_box{
+    background-color: white;
+    margin-left: 900px;
+    margin-top: 20px;
+    height:900px;
+    width: 550px;
+    border-radius: 0px;
+}
+
+#title{
+    color: rgb(177, 109, 206); ;
+    margin-left: 160px;
+    margin-top: 5px;
+}
+#welcome{
+    color: rgb(177, 109, 206);
+    margin-left: 99px;
+}
+#email_text{
+    color: rgb(177, 109, 206);
+    margin-left: 60px;
+}
+#password_text{
+    color: rgb(177, 109, 206);
+    Margin-left: 60px;
+}
+#text{
+    
+    height: 40px;
+    width: 400px;
+    margin-left: 60px;
+    border-radius: 0px;
+}
+#forgot_pass{
+    
+    margin-left: 60px;
+}
+
+#Conf_pass
+{
+    color: rgb(177, 109, 206);
+     margin-left: 60px;
+}
+
+#age
+{
+    color: rgb(177, 109, 206);
+     margin-left: 60px;
+}
+#num
+{
+    color: rgb(177, 109, 206);
+    margin-left: 60px;
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#signin_button{
+    margin-left: 100px;
+    height: 60px;
+    width: 330px;
+    border-radius: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+#signin_button:hover{
+    background-color: rgb(177, 109, 206);;
+}
+
+#sign_msg
+{
+    margin-left: 200px;
+}
+hr{
+    background-color: rgb(255, 0, 0);
+}
+
+#back1
+{
+    background-image: url("https://www.concensus.com/wp-content/uploads/2020/04/CTech_ZoomMeetingBlog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

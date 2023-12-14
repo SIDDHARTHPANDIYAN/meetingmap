@@ -1,0 +1,72 @@
+body
+{
+    background-image: url('https://www.concensus.com/wp-content/uploads/2020/04/CTech_ZoomMeetingBlog.jpg');
+}
+ .wrapper{
+     width: 500px;
+     height: 640px;
+     background: white;
+     border: 2px solid ;
+   
+     box-shadow: 0 0 10px black;
+     color: #ffffff;
+     border-radius: 0px;
+     padding: 20px 40px;
+     margin-top: 30px;
+     margin-left: 800px;
+ }
+ #text
+ {
+    width:260px;
+    height:40px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0px;
+    margin-left: 100px;
+    border-color: rgb(177, 109, 206);
+ }
+ #email_text
+ {
+    color: black;
+    margin-left: 200px;
+ }
+ #password_text
+ {
+    color: black;
+    margin-left: 185px;
+ }
+ #welcome_text
+ {
+    color: rgb(177, 109, 206);
+ }
+ .login_button
+ {
+    background-color:white;
+    border-radius: 40px;
+    border-color: rgb(177, 109, 206);
+    border-style:solid;
+    height: 40px;
+    width: 260px;
+    margin-left: 100px;
+    cursor:pointer;
+ }
+ .login_button:hover{
+    background-color:rgb(177, 109, 206);
+    color: white;
+    border-color: white;
+}
+.login_button1
+ {
+    background-color:white;
+    border-radius: 50px;
+    border-color: rgb(177, 109, 206);
+    border-style:solid;
+    height: 40px;
+    width: 260px;
+    margin-left: 100px;
+    cursor:pointer;
+ }
+.login_button1:hover{
+    background-color: rgb(177, 109, 206);
+    color: white;
+    border-color: white;
+}
